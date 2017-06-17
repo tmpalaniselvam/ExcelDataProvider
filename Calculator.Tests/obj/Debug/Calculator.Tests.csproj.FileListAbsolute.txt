@@ -1,0 +1,10 @@
+C:\Demo\ExcelDataProvider\Calculator.Tests\obj\Debug\Calculator.Tests.csprojResolveAssemblyReference.cache
+C:\Demo\ExcelDataProvider\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+C:\Demo\ExcelDataProvider\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+C:\Demo\ExcelDataProvider\Calculator.Tests\bin\Debug\Calculator.dll
+C:\Demo\ExcelDataProvider\Calculator.Tests\bin\Debug\nunit.framework.dll
+C:\Demo\ExcelDataProvider\Calculator.Tests\bin\Debug\Calculator.pdb
+C:\Demo\ExcelDataProvider\Calculator.Tests\bin\Debug\nunit.framework.xml
+C:\Demo\ExcelDataProvider\Calculator.Tests\obj\Debug\Calculator.Tests.csproj.ResolveComReference.cache
+C:\Demo\ExcelDataProvider\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+C:\Demo\ExcelDataProvider\Calculator.Tests\obj\Debug\Calculator.Tests.pdb
